@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>cre.jpg</file>
+        <file>she.jpg</file>
+        <file>timg.jpg</file>
+        <file>timg3.jpg</file>
+        <file>dyj.jpg</file>
+    </qresource>
+    <qresource prefix="/main">
+        <file>cre_b.jpg</file>
+        <file>pro2.jpg</file>
+        <file>shezhi.jpg</file>
+        <file>tim.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>1.txt</file>
+        <file>2.txt</file>
+        <file>3.txt</file>
+        <file>4.txt</file>
+        <file>5.txt</file>
+    </qresource>
+</RCC>
